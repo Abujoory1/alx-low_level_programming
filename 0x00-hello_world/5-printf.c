@@ -1,11 +1,12 @@
-#include<stsio.h>
+#include <stdio.h>
+
 /**
- * main - Entry point
- * Return: Alwys 0 (success)
+ * main - displays "with proper grammar" with new line
+ * Return: 0 and exit the program
  */
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
 	return (0);
-
 }
+
